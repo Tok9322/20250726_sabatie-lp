@@ -170,6 +170,18 @@ section {
     transform: translateY(-3px);
 }
 
+/* Instagram Section */
+#instagram .section-description {
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+#instagram .instagram-feed {
+    max-width: 800px;
+    margin: 0 auto;
+    /* 埋め込みウィジェットが中央に来るように調整 */
+}
+
 /* Access Section */
 #access iframe {
     width: 100%;
